@@ -1,0 +1,2 @@
+# discord_MusicBot_sample
+簡単なスラッシュコマンドを利用した音楽bot
